@@ -1,0 +1,36 @@
+Tour #1
+        5x5 starting at (1,1)
+
+         No solutions for this case.
+Tour #2
+        5x5 starting at (0,0)
+
+         No solutions for this case.
+Tour #3
+        5x5 starting at (2,4)
+
+          13   6   1  18  13
+          10  17  12   7  12
+           5   2   9  14  19
+          16  11   4  11   8
+           3  10  15  20  15
+Tour #4
+        5x5 starting at (3,4)
+
+           2  15  12   7   4
+          13   6   1  16  13
+          14  11   8   3  14
+           5   2  13  10  17
+          12   9   4  15  14
+Tour #5
+        7x7 starting at (1,1)
+
+         No solutions for this case.
+Tour #6
+        8x8 starting at (0,0)
+
+         No solutions for this case.
+Tour #7
+        8x8 starting at (0,0)
+
+         No solutions for this case.
